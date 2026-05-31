@@ -4,7 +4,7 @@ Colab-ready PDF analysis notebook that detects page content (titles, text, table
 
 ## Quick start (Google Colab)
 
-1. Upload [`Lumindra_v2.0.0.ipynb`](Lumindra_v2.0.0.ipynb) to Google Colab (or open from Drive).
+1. Upload [`Illuminator.ipynb`](Illuminator.ipynb) to Google Colab (or open from Drive).
 2. **Runtime → Run all** (first run installs dependencies and downloads Docling models; may take several minutes).
 3. Upload your PDF when prompted.
 4. Download **`Output.zip`**, which contains:
