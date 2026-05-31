@@ -1,4 +1,4 @@
-# Lumindra v2.0.0
+# Illluminator
 
 Colab-ready PDF analysis notebook that detects page content (titles, text, tables, images, page numbers, footnotes), annotates the PDF with colored bounding boxes, and exports a table-of-contents markdown file.
 
